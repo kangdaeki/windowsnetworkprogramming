@@ -5,7 +5,7 @@ ExCriticalSection.cpp -- 임계 영역 연습 (page 207 of 김선우, TCP/IP 윈
 
 ExEvent.cpp -- 이벤트 연습 (page 210 of 김선우, TCP/IP 윈도우 소켓 프로그래밍)
 
-ExNoCriticalSection.cpp -- 
+ExNoCriticalSection.cpp -- 임계 영역 연습 (page 205 of 김선우, TCP/IP 윈도우 소켓 프로그래밍)
 
 ExThread1.cpp -- 쓰레드 생성과 종료, 인자 전달 연습 (page 182 of 김선우, TCP/IP 윈도우 소켓 프로그래밍)
 
