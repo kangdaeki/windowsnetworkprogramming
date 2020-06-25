@@ -1,9 +1,9 @@
 # WinThread
 Multi-thread in Windows
 
-ExCriticalSection.cpp -- 
+ExCriticalSection.cpp -- 임계 영역 연습 (page 207 of 김선우, TCP/IP 윈도우 소켓 프로그래밍)
 
-ExEvent.cpp -- 
+ExEvent.cpp -- 이벤트 연습 (page 210 of 김선우, TCP/IP 윈도우 소켓 프로그래밍)
 
 ExNoCriticalSection.cpp -- 
 
